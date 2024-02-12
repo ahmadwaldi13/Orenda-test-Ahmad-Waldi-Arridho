@@ -88,9 +88,11 @@ Explore each directory to test the functionality of the corresponding API relate
     npm run dev
     ```
 
-```
- Local:   http://localhost:5173/
-```
+open to browser:
+
+    ```
+    http://localhost:5173/
+    ```
 
 
 
