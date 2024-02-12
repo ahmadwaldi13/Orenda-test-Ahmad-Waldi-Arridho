@@ -89,10 +89,9 @@ Explore each directory to test the functionality of the corresponding API relate
     ```
 
 open to browser:
-
-    ```
-    http://localhost:5173/
-    ```
+```
+ http://localhost:5173/
+```
 
 
 
