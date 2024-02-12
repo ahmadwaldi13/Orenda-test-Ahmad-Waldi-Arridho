@@ -68,6 +68,8 @@ npm run dev
 ## Testing All APIs
 You can test all API endpoints by accessing the src/http directory, which consists of:
 
+`Admins`
+
 `Customers`
 
 `Products`
